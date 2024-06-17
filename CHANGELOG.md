@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-16)
+## Unreleased (2024-06-17)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`915d3e7`](https://github.com/stdlib-js/stdlib/commit/915d3e77ccd6bdb8a8145e5be832e0db50854613) - **docs:** fix missing asterisk _(by Athan Reines)_
 -   [`9445e22`](https://github.com/stdlib-js/stdlib/commit/9445e22fabf3546afe9a6dd33c9131917f960b2a) - **feat:** add `array/base/cuevery` (#2380) [(#2380)](https://github.com/stdlib-js/stdlib/pull/2380) _(by Aditya Sapra, Athan Reines)_
 
 </details>
