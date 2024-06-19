@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-cuevery",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cumulatively test whether every element in a provided array is truthy.",
   "license": "Apache-2.0",
   "author": {
