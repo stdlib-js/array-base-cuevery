@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cuevery from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@deno/mod.js';
+import cuevery from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@v0.0.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@v0.0.1-deno/mod.js';
 ```
 
 #### cuevery( x )
@@ -102,7 +102,7 @@ The function supports the following parameters:
 
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import cuevery from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@deno/mod.js';
+import cuevery from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuevery@v0.0.1-deno/mod.js';
 
 // Create an array of random values:
 var x = bernoulli( 10, 0.9 );
