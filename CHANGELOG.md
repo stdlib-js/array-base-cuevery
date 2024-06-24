@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-06-24)
+
+<section class="features">
+
+### Features
+
+-   [`3c451db`](https://github.com/stdlib-js/stdlib/commit/3c451db98b94e5d89a2aaffca29c4ca93835605f) - add boolean dtype support to `array/base/cuevery` [(#2447)](https://github.com/stdlib-js/stdlib/pull/2447)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3c451db`](https://github.com/stdlib-js/stdlib/commit/3c451db98b94e5d89a2aaffca29c4ca93835605f) - **feat:** add boolean dtype support to `array/base/cuevery` [(#2447)](https://github.com/stdlib-js/stdlib/pull/2447) _(by Jaysukh Makvana)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Jaysukh Makvana
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-06-19)
