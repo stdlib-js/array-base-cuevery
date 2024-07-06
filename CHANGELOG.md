@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-24)
+## Unreleased (2024-07-06)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4059e11`](https://github.com/stdlib-js/stdlib/commit/4059e1125ea8e16467e28ea4523aa06b3345b620) - **docs:** remove blank line _(by Athan Reines)_
 -   [`3c451db`](https://github.com/stdlib-js/stdlib/commit/3c451db98b94e5d89a2aaffca29c4ca93835605f) - **feat:** add boolean dtype support to `array/base/cuevery` [(#2447)](https://github.com/stdlib-js/stdlib/pull/2447) _(by Jaysukh Makvana)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Jaysukh Makvana
 
 </section>
