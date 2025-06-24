@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`28a6474`](https://github.com/stdlib-js/stdlib/commit/28a64749d12c05ecd840af6f5a4e14a343c6efc0) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`89e005a`](https://github.com/stdlib-js/stdlib/commit/89e005ad5004d32271fe7266e95eb96187c1946a) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`2c4e5d8`](https://github.com/stdlib-js/stdlib/commit/2c4e5d824e0c5dc8fd536bf79ff565cee100ce46) - **build:** disable additional lint rule in TS tests _(by Philipp Burckhardt)_
 -   [`31fd427`](https://github.com/stdlib-js/stdlib/commit/31fd42744ec5d7073041f97c6f72350b8005c0fc) - **style:** remove unwanted empty lines _(by Philipp Burckhardt)_
